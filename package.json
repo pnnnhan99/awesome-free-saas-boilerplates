@@ -1,0 +1,25 @@
+{
+  "name": "awesome-free-saas-boilerplates",
+  "version": "1.0.0",
+  "description": "Kho Starter Kits & Boilerplates miễn phí giúp Indie Hackers và Vibe Coders ship sản phẩm nhanh nhất",
+  "main": "scripts/build-readme.js",
+  "scripts": {
+    "build": "node scripts/build-readme.js",
+    "test": "node scripts/build-readme.js"
+  },
+  "keywords": [
+    "saas",
+    "boilerplate",
+    "starter-kit",
+    "indie-hackers",
+    "nextjs",
+    "react",
+    "vue",
+    "nuxt"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}

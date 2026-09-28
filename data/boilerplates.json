@@ -1,0 +1,12 @@
+[
+  { "name": "Next.js Supabase Starter", "url": "https://github.com/vercel/next.js/tree/canary/examples/with-supabase", "category": "Next.js & React", "features": "Next.js, Supabase Auth, PostgreSQL, Tailwind", "description": "Khung chuẩn từ chính Vercel. Có sẵn đăng nhập, bảo vệ route và kết nối database." },
+  { "name": "Taxonomy", "url": "https://github.com/shadcn-ui/taxonomy", "category": "Next.js & React", "features": "Next 13, Stripe, Prisma, NextAuth", "description": "Boilerplate huyền thoại của tác giả shadcn. Full tính năng Blog, Thanh toán, Dashboard." },
+  { "name": "Create T3 App", "url": "https://github.com/t3-oss/create-t3-app", "category": "Next.js & React", "features": "Next.js, tRPC, Tailwind, Prisma, NextAuth", "description": "Setup an toàn kiểu dữ liệu (Type-safe) xịn nhất hiện nay cho hệ sinh thái React." },
+  { "name": "Next-Saas-Stripe-Starter", "url": "https://github.com/mickasmt/next-saas-stripe-starter", "category": "Next.js & React", "features": "Next.js 14, Stripe, Prisma, Kinde Auth", "description": "Bộ khung SaaS hiện đại có sẵn cổng thanh toán Stripe và quản lý người dùng." },
+  
+  { "name": "Nuxt Supabase Starter", "url": "https://github.com/nuxt-modules/supabase/tree/main/demo", "category": "Vue & Nuxt", "features": "Nuxt 3, Supabase, Tailwind", "description": "Starter kit chính thức từ team Nuxt cho hệ sinh thái Vue. Nhanh và mượt." },
+  { "name": "Vitesse", "url": "https://github.com/antfu/vitesse", "category": "Vue & Nuxt", "features": "Vite, Vue 3, TypeScript, UnoCSS", "description": "Khung dự án siêu tốc dành cho ai thích dùng Vue thuần mà không cần SSR." },
+
+  { "name": "SaaS Boilerplate (Node/React)", "url": "https://github.com/async-labs/saas", "category": "Fullstack (Node/Python/Ruby)", "features": "React, Material-UI, Node, Express, MongoDB", "description": "Kiến trúc tách biệt Frontend & Backend truyền thống. Tích hợp sẵn Stripe." },
+  { "name": "Django SaaS Boilerplate", "url": "https://github.com/app-generator/django-saas-boilerplate", "category": "Fullstack (Node/Python/Ruby)", "features": "Django, Stripe, Celery, Docker", "description": "Dành cho fan Python. Có sẵn thanh toán, gửi email nền và Dockerize sẵn." }
+]
