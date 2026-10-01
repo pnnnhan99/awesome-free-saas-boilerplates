@@ -2,7 +2,7 @@ name: Auto Check and Update README
 
 on:
   schedule:
-    - cron: '0 5 * * *'
+    - cron: '0 0 * * *'
   push:
     branches:
       - main
